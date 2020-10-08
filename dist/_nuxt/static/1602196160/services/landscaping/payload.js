@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/services/landscaping", {data:[{}],fetch:[],mutations:void 0});

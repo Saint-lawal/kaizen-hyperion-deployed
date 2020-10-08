@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/services/water-treatment", {data:[{}],fetch:[],mutations:void 0});
